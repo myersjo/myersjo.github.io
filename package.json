@@ -16,6 +16,21 @@
     "gulp-ruby-sass": "^3.0.0",
     "gulp-uglify": "^3.0.0",
     "npm": "^6.2.0",
-    "sass": "^1.10.1"
+    "sass": "^1.10.1",
+    "body-parser": "latest",
+    "bootstrap": "4.0.0",
+    "express": "latest",
+    "font-awesome": "4.7.0",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0",
+    "morgan": "latest",
+    "nconf": "latest",
+    "nodemailer": "latest",
+    "nodemailer-mailgun-transport": "latest",
+    "npm": "^5.8.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "scrollreveal": "3.3.6"
   }
 }
