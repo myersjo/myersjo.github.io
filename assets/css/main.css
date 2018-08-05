@@ -1984,6 +1984,9 @@ Cover
   list-style: none;
   word-break: break-all;
 }
+.slider-content-inner {
+  word-break: break-word; 
+}
 .cover_slider .slider-content-center {
   max-width: 800px;
   margin: 0 auto;
