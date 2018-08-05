@@ -1733,7 +1733,7 @@ header.sticky_header {
 }
 @media (max-width: 767px) {
   header {
-    background-color: #18181c;
+    background-color: #4bb4f9;
     margin: 0;
     -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
     box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
