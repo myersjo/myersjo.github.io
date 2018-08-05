@@ -1704,7 +1704,7 @@ header li ul.sub_menu li a:hover {
 }
 
 header.sticky_header {
-  background-color: #18181c;
+  background-color: #1a3e56;
   margin: 0;
   padding: 5px;
   -webkit-box-shadow: 0 0 42px rgba(0, 0, 0, 0.08);
@@ -1821,7 +1821,7 @@ footer .newsletter_form .form-control {
 }
 
 .copyright_footer {
-  background-color: #080113;
+  background-color: #4bb4f9;
   padding: 15px;
 }
 .copyright_footer p {
@@ -1842,10 +1842,10 @@ footer .newsletter_form .form-control {
 .copyright_footer ul.footer_menu li a {
   padding: 10px;
   text-transform: capitalize;
-  color: #838383;
+  color: #ffffff;
 }
 .copyright_footer ul.footer_menu li a:hover {
-  color: #ffffff;
+  color: #5b2d78;
 }
 
 @media (max-width: 767px) {
@@ -2005,7 +2005,7 @@ Cover
 }
 .cover_slider .cover_item .slider_content {
   display: table;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.0);
   height: 100%;
   width: 100%;
   position: relative;
@@ -2311,6 +2311,12 @@ Cover
           box-shadow: 0 0 0 rgba(0, 0, 0, 0.08);
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
+}
+
+@media only screen and (min-wdith: 992px) {
+  .icon_box_one {
+    height: 390px; 
+  }
 }
 .icon_box_one i {
   margin-top: -10px;
