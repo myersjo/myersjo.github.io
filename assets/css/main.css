@@ -3291,6 +3291,7 @@ section .section-title {
 .frontside .card,
 .backside .card {
     min-height: 312px;
+    height: 365px;  
 }
 
 .backside .card a {
@@ -3311,4 +3312,8 @@ section .section-title {
 
 #home {
   padding-top: 0;
+}
+
+.about-card {
+  height: 210px;
 }
